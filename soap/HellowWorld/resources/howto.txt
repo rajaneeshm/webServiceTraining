@@ -1,0 +1,9 @@
+This Example is taken from 
+
+http://www.mkyong.com/webservices/jax-ws/jax-ws-hello-world-example/
+
+Run :  HelloWorldPublisher.java
+
+open browser :  with  http://localhost:8080/HelloWorld/hello
+
+
